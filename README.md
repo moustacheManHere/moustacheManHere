@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moustacheManHere
 - 🏫 Student at SP
-- 👀 I’m interested in AI, Cybersecurity and Chess
-- 🌱 I’m currently learning Node.js and MySQL
+- 👀 I’m interested in AI, Data and Chess
+- 🌱 I’m currently learning Sklearn and SQL Server
 - 📕 Open to learning things outside my comfort zone
 - 💞️ Open to collaborate on anything coding related
 - 📫 Reach me thru my email : justforthegreatergood@gmail.com
