@@ -1,32 +1,62 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">A passionate AI Engineer interesting in Computer Vision and Generative AI</h3>
+<h3 align="center">A passionate AI Engineer interested in Computer Vision and Generative AI</h3>
 
- - 👀 I’m interested in AI, Data, and Chess<br>
- - 🌱 I’m currently learning Deep Learning with PyTorch<br>
- - 📕 Open to learning things outside my comfort zone<br>
- - 💞️ Open to collaborate on anything coding-related<br>
- - 📫 Reach me thru my email: justforthegreatergood@gmail.com
+## 💫 About Me
+👀 I’m interested in AI, Data, and Chess<br>🌱 I’m currently exporing Deep Learning with PyTorch Lightning<br>📕 Open to learning things outside my comfort zone<br>💞️ Open to collaborate on anything coding-related<br>📫 Reach me thru my email: justforthegreatergood@gmail.com
 
-## Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/sriram-jeyakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriram-jeyakumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/moustacheman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moustacheman" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
+<div align="center">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+    <br>
+    <hr width="50%">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"><br>
+    <hr width="50%">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <br><hr width="50%">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</div>
 
-## Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </p>
 
-## Statistics
+## 📊 GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=moustacheManHere&icon=0&color=0)](https://visitcount.itsvg.in)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moustacheManHere&theme=monokai&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moustacheManHere&theme=monokai&hide_border=false) |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustacheManHere&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  width="100%"> | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=moustacheManHere&limit=5&theme=onedark&combine_all_yearly_contributions=true) |
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moustachemanhere" alt="moustachemanhere" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moustachemanhere&show_icons=true&locale=en&layout=compact" alt="moustachemanhere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moustachemanhere&show_icons=true&locale=en" alt="moustachemanhere" /></p>
 
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=moustacheManHere&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=moustacheManHere&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 moustacheManHere/moustacheManHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
