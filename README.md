@@ -52,6 +52,13 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
 
+## 🐍 Random SVG
+<br clear="both">
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg">
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 moustacheManHere/moustacheManHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
