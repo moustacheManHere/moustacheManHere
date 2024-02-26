@@ -2,7 +2,11 @@
 <h3 align="center">A passionate AI Engineer interested in Computer Vision and Generative AI</h3>
 
 ## 💫 About Me
-👀 I’m interested in AI, Data, and Chess<br>🌱 I’m currently exporing Deep Learning with PyTorch Lightning<br>📕 Open to learning things outside my comfort zone<br>💞️ Open to collaborate on anything coding-related<br>📫 Reach me thru my email: justforthegreatergood@gmail.com
+    👀 I’m interested in AI, Data, and Chess
+    🌱 I’m currently exporing Deep Learning with PyTorch Lightning
+    📕 Open to learning things outside my comfort zone
+    💞️ Open to collaborate on anything coding-related
+    📫 Reach me thru my email: justforthegreatergood@gmail.com
 
 
 ## 💻 Tech Stack
