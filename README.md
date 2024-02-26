@@ -47,14 +47,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=moustacheManHere&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=moustacheManHere&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
